@@ -1,0 +1,6 @@
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.exe.config
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.pdb

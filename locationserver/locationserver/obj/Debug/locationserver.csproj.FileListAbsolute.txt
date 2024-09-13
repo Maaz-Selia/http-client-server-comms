@@ -1,0 +1,30 @@
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.exe.config
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\bin\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\First\Server\Server\obj\Debug\locationserver.csprojAssemblyReference.cache
+E:\First\Server\Server\bin\Debug\locationserver.exe.config
+E:\First\Server\Server\bin\Debug\locationserver.exe
+E:\First\Server\Server\bin\Debug\locationserver.pdb
+E:\First\Server\Server\obj\Debug\locationserver.csprojAssemblyReference.cache
+E:\First\Server\Server\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+E:\First\Server\Server\obj\Debug\locationserver.exe
+E:\First\Server\Server\obj\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\bin\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\bin\Debug\locationserver.exe.config
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.csprojAssemblyReference.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.MainForm.resources
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.csproj.GenerateResource.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\Server\Server\obj\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\obj\Debug\locationserver.MainForm.resources
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\maazs\Desktop\Uni\Year 2\2nd Semester\Networking and User Interface\ACW\Implementation\FirstUI\locationserver\locationserver\obj\Debug\locationserver.pdb
