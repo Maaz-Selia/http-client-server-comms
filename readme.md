@@ -1,5 +1,5 @@
 # This is a demo project learning about and practice creating client-server applications utilising HTTP communication protocol.
-**C#, HTTP, Client-Server, Windows Forms**
+**C#, .NET, Windows Forms, HTTP, Client-Server**
 
 Executables
 	Contained in debug folders of respective solutions.
