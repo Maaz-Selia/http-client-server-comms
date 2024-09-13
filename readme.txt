@@ -1,6 +1,3 @@
-Zip
-	Contains 2 VS Solutions: "location" and "locationserver".
-	
 Executables
 	Contained in debug folders of respective solutions.
 	
